@@ -1,33 +1,24 @@
-# Row / Rowboat - Unreal Engine Modding & Exploiting
+# row !
 
 <p align="center">
   <img src="https://github.com/rowboatss.png" alt="rowboat avatar" width="160" />
 </p>
 
-I poke at Unreal Engine games to see how they work. I mod, reverse engineer, and build tools to explore runtime behavior. Some things break. I fix what I can. I share findings that are safe and useful.
+helllo! im row, im 14 and i like to do stuff
 
 ---
 
 ### what i do
 
-* reverse engineering Unreal Engine builds
+* reverse engineering Unreal Engine games
 * runtime modding and tooling
-* exploit research for education and security testing (private builds or explicit permission only)
-* read-only runtime inspection and quick prototyping
+* exploit research for education and such
 
 ---
 
-### games i tinker with
+### stuff i know
 
-Row / Rowboat and other Unreal Engine titles
-
----
-
-### languages & tools
-
-**Languages:** Python, C#, C++
-**Tools / tech:** Unreal Engine, Visual Studio, IDA, Ghidra, x64dbg, WinDbg, Git
-
+<p align="center"> <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" /> </a> <a href="https://docs.microsoft.com/dotnet/csharp/" title="C#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" /> </a> <a href="https://isocpp.org" title="C++"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" /> </a> </p>
 ---
 
 ### profile
