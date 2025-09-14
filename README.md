@@ -32,7 +32,3 @@ helllo! im row, im 14 and i like to do stuff
 </p>
 
 ---
-
-### notes
-
-i make stuff for fun
