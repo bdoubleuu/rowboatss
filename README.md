@@ -23,7 +23,12 @@ helllo! im row, im 14 and i like to do stuff
 ---
 
 ### contact me!
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="Discord" width="28" height="28" style="vertical-align:middle" /> <span style="font-size:1.05rem; margin-left:8px; vertical-align:middle">@rowboatss</span> </p>
+
+<p align="center">
+  <img src="https://github.com/rowboatss/rowboatss/raw/main/discord.png" alt="Discord" width="28" height="28" style="vertical-align:middle" />
+  <span style="font-size:1.05rem; margin-left:8px; vertical-align:middle">@rowboatss</span>
+</p>
+
 
 
 
