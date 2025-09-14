@@ -22,14 +22,9 @@ helllo! im row, im 14 and i like to do stuff
 
 ---
 
-### profile
+### contact me!
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="Discord" width="28" height="28" style="vertical-align:middle" /> <span style="font-size:1.05rem; margin-left:8px; vertical-align:middle">@rowboatss</span> </p>
 
-<p align="center">
-  <a href="https://github.com/rowboatss"><img src="https://github-readme-stats.vercel.app/api?username=rowboatss&show_icons=true&count_private=true" alt="Rowboat's GitHub stats" /></a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/rowboatss"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rowboatss&layout=compact" alt="Top languages" /></a>
-</p>
 
 ---
