@@ -8,10 +8,9 @@ helllo! im row, im 14 and i like to do stuff
 
 ---
 
-### what i do
+### cool stuff
 
-* reverse engineering Unreal Engine games
-* runtime modding and tooling
+* learning to be better at reverse engineering UE games
 * exploit research for education and such
 
 ---
