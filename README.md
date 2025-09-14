@@ -19,6 +19,7 @@ helllo! im row, im 14 and i like to do stuff
 ### stuff i know
 
 <p align="center"> <a href="https://www.python.org" title="Python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" /> </a> <a href="https://docs.microsoft.com/dotnet/csharp/" title="C#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" /> </a> <a href="https://isocpp.org" title="C++"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" /> </a> </p>
+
 ---
 
 ### profile
