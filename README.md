@@ -4,7 +4,7 @@
   <img src="https://github.com/rowboatss.png" alt="rowboat avatar" width="160" />
 </p>
 
-helllo! im row, im 14 and i like to do stuff
+hi im row/rowboat
 
 ---
 
