@@ -34,9 +34,9 @@ hi im row/rowboat
 ### contact me!
 
 <p align="center">
-  <a href="https://discord.com/users/rowboatss" style="text-decoration:none;">
+  <a href="https://discord.com/users/683998472160280721" style="text-decoration:none;">
     <img src="https://github.com/rowboatss/rowboatss/raw/main/discord.png" alt="Discord" width="28" height="28" />
-    <span style="font-size:1.05rem; margin-left:6px; vertical-align:middle;">@rowboatss</span>
+    <span style="font-size:1.05rem; margin-left:6px; vertical-align:middle;">@rowplusplus</span>
   </a>
 </p>
 
